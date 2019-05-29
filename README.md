@@ -3,6 +3,14 @@
 
 Driving a Mustang car in a Wild West scenery<br>
 
+<h3><b>
+************************************************************************************************* <br>
+NOTE: Due to memory constraints, resource files such as objects are stored in a separate repository:<br>
+https://github.com/saganatt/GK3D_res <br>
+You need to download that one as well before starting. <br>
+************************************************************************************************* <br>
+</b></h3>
+
 Much of the work owing to:<br>
 https://learnopengl.com/<br>
 https://github.com/jackgerrits/opengl-car-game<br>
